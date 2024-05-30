@@ -16,6 +16,9 @@ Sales Analysis: Queries focusing on sales performance, trends, and insights.
 Customer Analysis: Queries to analyze customer behavior and preferences.
 Operational Analysis: Queries to evaluate operational efficiency.
 
+Schema Design
+The schema used in this project was designed in Power BI, providing a clear and visual representation of the data structure.
+
 To perform the analysis:
 Open your Mysql workbench.
 Load the dataset.
